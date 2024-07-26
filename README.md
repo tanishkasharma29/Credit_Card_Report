@@ -1,7 +1,8 @@
 # Credit Card Dashboard
 
-![Credit Card Customer Report](./images/customer_report.png)
-![Credit Card Transaction Report](./images/transaction_report.png)
+![Credit Card Customer Report](https://github.com/user-attachments/assets/6e8b7823-b3f2-4ca1-b535-42db57f981aa)
+
+![Credit Card Transaction Report](https://github.com/user-attachments/assets/81b066c1-7213-454d-811e-932f61230d2e)
 
 This interactive Credit Card Dashboard was created using Power BI to provide comprehensive insights into credit card customers and their transactions. The dashboard is divided into two main sections: Customer Report and Transaction Report. Below is a detailed description of each section and its components.
 
@@ -46,5 +47,5 @@ This dashboard is designed for credit card companies, financial analysts, and ot
 2. **View Detailed Insights**: Hover over the visual elements to see detailed tooltips and data points.
 3. **Export Data**: You can export the underlying data of any visual by right-clicking on it and selecting 'Export data'.
 4. **Customize**: Use Power BI Desktop to customize the dashboard to meet your specific needs by adding or modifying visualizations.
-![image](https://github.com/user-attachments/assets/81b066c1-7213-454d-811e-932f61230d2e)
+
 
